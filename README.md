@@ -1,1 +1,2 @@
-# Tanh-Approximation
+# Tanh Approximation
+Hyperbolic tangent function approximation project developed in AMD Vivado and written in SystemVerilog for the PYNQ-Z1 FPGA. Implements a pipelined hardware circuit using Taylor series expansion to compute the tanh activation function used in neural networks. Includes a multi-stage datapath, fixed-point arithmetic, and a testbench with randomized input verification and golden reference comparison.
